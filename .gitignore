@@ -1,0 +1,11 @@
+.idea
+*/.idea/
+node_modules/
+*/node_modules/
+.DS_Store
+*/.DS_Store
+*/.terraform/
+/udacity-c3-deployment/terraform/aws/.terraform/
+/udacity-c3-deployment/terraform/aws/udagramjoshidev.tar.gz
+/udacity-c3-deployment/terraform/aws/tf.json
+/udacity-c3-deployment/terraform/aws/terraform.tfstate

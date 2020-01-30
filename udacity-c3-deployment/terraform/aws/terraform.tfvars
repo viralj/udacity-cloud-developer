@@ -1,0 +1,5 @@
+cluster_name = "udagramjoshidev"
+aws_region = "us-east-2"
+worker_type = "t3.medium"
+control_plane_type = "t3.medium"
+ssh_public_key_file = "~/.ssh/id_rsa.pub"
